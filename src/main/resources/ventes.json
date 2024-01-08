@@ -1,0 +1,30 @@
+[
+  {
+    "client_id": 1,
+    "nom_client": "Dubois",
+    "ville": "Rabat",
+    "nombre_appartements_achetes": 3,
+    "revenues": 150000
+  },
+  {
+    "client_id": 2,
+    "nom_client": "Durand",
+    "ville": "Casablanca",
+    "nombre_appartements_achetes": 2,
+    "revenues": 120000
+  },
+  {
+    "client_id": 3,
+    "nom_client": "Dubois",
+    "ville": "Rabat",
+    "nombre_appartements_achetes": 2,
+    "revenues": 90000
+  },
+  {
+    "client_id": 4,
+    "nom_client": "Martin",
+    "ville": "Tanger",
+    "nombre_appartements_achetes": 1,
+    "revenues": 50000
+  }
+]
